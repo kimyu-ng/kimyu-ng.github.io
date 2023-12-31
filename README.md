@@ -58,7 +58,7 @@ My career goal is to continually enhance my skills and learn best practices to m
 - Responsible for grading quizzes and programming projects.
 - Helped students on piazza, an online Q&A forum to help class discussions.
 
-**Software Engineering Intern @ Mass Relevance / Spredfast / Khoros (Summer 2015_)**
+**Software Engineering Intern @ Mass Relevance / Spredfast / Khoros (_Summer 2015_)**
 - Primarily responsible for enhancing administrative tool functionality written in Ruby on Rails
 - Implemented live demo for in-house framework which was written on top of libraries such as backbone.js and frontend toolings such as grunt, gulp and require.js.
 - Participated in Hackweek and implemented exporting files to cloud storage feature to allow sharing capabilities in the existing platform.
