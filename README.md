@@ -1,6 +1,6 @@
 # Connect
 - https://www.linkedin.com/in/kimyu-ng/
-- https://github.com/kimyu92/
+- https://github.com/kimyu-ng
 
 # About me
 With extensive experience as a full-stack software developer, I specialize in building enterprise web applications and services using a variety of technologies, including Ruby on Rails, TypeScript, JavaScript, React, and SQL. I am also proficient in CI/CD, having worked with it professionally.
